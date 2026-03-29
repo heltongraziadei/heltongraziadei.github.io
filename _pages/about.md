@@ -12,8 +12,8 @@ Hi! I’m an Assistant Professor of Statistics at the Federal University of São
 If you’re a student interested in research (or a collaborator), feel free to reach out ([helton@ufscar.br](mailto:helton@ufscar.br)).
 
 ## Research interests
-- Time series forecasting (including integer-valued models)
 - Uncertainty quantification and conformal prediction
+- Time series forecasting (including integer-valued models)
 - Actuarial / insurance applications: mortality & longevity, frequency–severity modeling, and agricultural risk
 
 ## Education
